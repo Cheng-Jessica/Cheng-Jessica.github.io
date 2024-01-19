@@ -4,8 +4,6 @@ import myImg from "../../Assets/Avatar.png";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
-  AiFillInstagram,
   AiOutlineMail,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
@@ -21,29 +19,28 @@ function Home2() {
             </h1>
             <p className="home-about-body" data-aos="fade-up">
               <br />
-              I'm a <i className="primary-header">
-                Self-Taught Web Developer
+              I'm a  results-driven <i className="primary-header">
+                Business Intelligence Analyst
               </i>{" "}
-              who loves solving problems and building Websites.
+              passionate about leveraging data-driven method to fuel business growth.
               <br />
-              <br />I am passionate about{" "}
-              <i className="primary-header">technologies</i> and love to learn
-              new things.
+              <br /> During my undergradate years, I co-founded an e-commerce, employing
+              Applied various <i className="primary-header"> entreprenuerial skills </i> and 
+              <i className="primary-header"> problem solving technique </i> to enhance my strategic thinking cabailities.              
               <br />
-              <br />I am more interested in building new
-              <i>
-                <i className="primary-header">Web Technologies and Products.</i>
-              </i>
+              <br /> Motivated by a desire to elevate decision-making process through{" "} data analytics , 
+              I bring four years of professional experience in analytical roles with Retail and E-Commerce. 
+              These experiences have honed my skills in <i className="primary-header"> cross-team communication </i>and 
+              crafting <i className="primary-header"> insightful initiates</i>, with a particular focus on gaining deep insights into customer and supplier dynamics.
+
               <br />
-              <br />I always apply my experience in developing products with{" "}
-              <i className="primary-header">Node.js</i> and Modern Javascript
-              Library and Framework like
-              <i className="primary-header"> React.js.</i>
+              <br /> As a Business Analytics graduate student at UMN Carlson, my expertise extends to
+                <i className="primary-header"> advanced predictive techniques and big data tools</i>, seamlessly navigating simple and deep learning techniques
+                using <i className="primary-header"> Python and R </i>  programming language.
               <br />
-              <br />
-              Currently expanding my portfolio by building more{" "}
-              <i className="primary-header">projects </i>projects that I can add
-              here.
+              <br /> Thank you for taking the time to learn more about me. I am ready to bring a fusion of advanced analytics and innovation to the forefront of business solution{" "}
+              
+             
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -66,7 +63,7 @@ function Home2() {
             <ul className="home-about-social-links" data-aos="fade-up">
               <li className="social-icons">
                 <a
-                  href="https://github.com/Rahuljha4171"
+                  href="https://github.com/Cheng-Jessica"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -75,7 +72,7 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
                   href="https://twitter.com/kumardotexe"
                   target="_blank"
@@ -85,10 +82,10 @@ function Home2() {
                 >
                   <AiOutlineTwitter />
                 </a>
-              </li>
+              </li> */}
               <li className="social-icons">
                 <a
-                  href="mailto:rahul.workmail01@gmail.com"
+                  href="mailto:cheng.jessica.0114@gmail.com"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -99,7 +96,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/Rahuljha4171/"
+                  href="https://www.linkedin.com/in/chieh-hsin-cheng/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -108,7 +105,7 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
                   href="https://www.instagram.com/dead.programmer/"
                   target="_blank"
@@ -118,7 +115,7 @@ function Home2() {
                 >
                   <AiFillInstagram />
                 </a>
-              </li>
+              </li> */}
             </ul>
           </Col>
         </Row>
