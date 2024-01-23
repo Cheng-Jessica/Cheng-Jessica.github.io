@@ -1,25 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.d9202c67.css",
-    "main.js": "/static/js/main.e6a655c3.js",
+    "main.js": "/static/js/main.485df8d7.js",
     "static/js/496.1811ca5a.chunk.js": "/static/js/496.1811ca5a.chunk.js",
     "static/media/Avatar.png": "/static/media/Avatar.306c6e9f63097ff8fbc0.png",
+    "static/media/Scrabble.jpeg": "/static/media/Scrabble.99ed86d28c8e3d443bfb.jpeg",
+    "static/media/Twitter.jpeg": "/static/media/Twitter.2db0b4d757a7296d61e2.jpeg",
     "static/media/homeicons.svg": "/static/media/homeicons.635077bdda0ab43ae14208bcfda93699.svg",
-    "static/media/ecart.png": "/static/media/ecart.438d5ee591bc137e102b.png",
-    "static/media/ExpenseTracker.png": "/static/media/ExpenseTracker.012a6c5d71f8f7df815e.png",
-    "static/media/Portfolio.png": "/static/media/Portfolio.4009bce3ac395244194e.png",
+    "static/media/Customer.jpeg": "/static/media/Customer.4d29a6080fc4898951fd.jpeg",
+    "static/media/Demand.jpeg": "/static/media/Demand.b9e11e80c743e55eb974.jpeg",
+    "static/media/Dogcat.jpeg": "/static/media/Dogcat.e2f7244a9207da8a362b.jpeg",
+    "static/media/ABtest.jpeg": "/static/media/ABtest.0d661f3dd90d32a69198.jpeg",
     "static/media/about.png": "/static/media/about.0d89b152b9d060142e14.png",
-    "static/media/PrivateChat.png": "/static/media/PrivateChat.9de5dd811354e7da0d67.png",
     "static/media/logoLight.png": "/static/media/logoLight.c63d0cd12a4ef58e2c98.png",
     "static/media/logoDark.png": "/static/media/logoDark.bb34b33dc40bfedd07a8.png",
     "static/media/pre.svg": "/static/media/pre.74b00c043f4cea5fb393.svg",
     "index.html": "/index.html",
     "main.d9202c67.css.map": "/static/css/main.d9202c67.css.map",
-    "main.e6a655c3.js.map": "/static/js/main.e6a655c3.js.map",
+    "main.485df8d7.js.map": "/static/js/main.485df8d7.js.map",
     "496.1811ca5a.chunk.js.map": "/static/js/496.1811ca5a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d9202c67.css",
-    "static/js/main.e6a655c3.js"
+    "static/js/main.485df8d7.js"
   ]
 }

@@ -93,7 +93,7 @@ function NavBar() {
                 Projects
               </Nav.Link>
             </Nav.Item>
-            <Nav.Item>
+            {/* <Nav.Item>
               <Nav.Link
                 href="https://blog.rahuljha.info/"
                 target="_blank"
@@ -101,7 +101,7 @@ function NavBar() {
               >
                 Blogs
               </Nav.Link>
-            </Nav.Item>
+            </Nav.Item> */}
           </Nav>
 
           <Nav.Item>
