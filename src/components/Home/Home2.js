@@ -25,7 +25,7 @@ function Home2() {
               passionate about leveraging data-driven method to fuel business growth.
               <br />
               <br /> During my undergradate years, I co-founded an e-commerce, employing
-              Applied various <i className="primary-header"> entreprenuerial skills </i> and 
+              various <i className="primary-header"> entreprenuerial skills </i> and 
               <i className="primary-header"> problem solving technique </i> to enhance my strategic thinking cabailities.              
               <br />
               <br /> Motivated by a desire to elevate decision-making process through{" "} data analytics , 
